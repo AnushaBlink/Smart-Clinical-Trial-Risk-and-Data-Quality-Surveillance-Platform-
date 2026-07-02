@@ -3,7 +3,6 @@ Smart Clinical Trial Risk and Data Quality Surveillance Platform for Risk-Based 
 
 A portfolio project demonstrating how modern Clinical Data Management, Pharmacovigilance, and Risk-Based Monitoring can be integrated using Excel, SQL, and Power BI.
 
-
 Project Overview
 This project simulates a clinical trial monitoring environment where patient safety, data quality, protocol compliance, and site performance are analyzed through interactive dashboards and SQL analytics.
 
